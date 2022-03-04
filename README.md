@@ -1,6 +1,6 @@
 
 # Zoom Attender
-Launches and joins a zoom meeting at a given time
+Automatically launches and joins a zoom meeting at a given time
 ## Installation
 
 This project is intended for Windows use only
