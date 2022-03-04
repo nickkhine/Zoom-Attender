@@ -20,6 +20,9 @@ pip install pyautogui
 
 
 ## Demo
-
-Insert gif or link to demo
+Change to directory of project and start program with
+```bash
+python3 main.py
+```
+![](giphy.gif)
 
