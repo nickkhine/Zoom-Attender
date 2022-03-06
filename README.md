@@ -9,7 +9,7 @@ Clone the repository
 
 
 ```bash
-git clone https://github.com/nickkhine/Zoom-Attender.git
+git clone https://github.com/nickkhine/ZoomBot.git
 ```
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pyautogui.
