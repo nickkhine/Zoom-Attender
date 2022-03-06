@@ -1,5 +1,5 @@
 
-# Zoom Attender
+# ZoomBot
 Automatically launches and joins a zoom meeting at a given time
 ## Installation
 
