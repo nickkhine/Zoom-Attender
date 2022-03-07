@@ -24,5 +24,6 @@ Change to directory of project and start program with
 ```bash
 python3 controller.py
 ```
+![](giphy.gif)
 
 
