@@ -103,6 +103,8 @@ class View(tk.Tk):
         ent.pack()
 
     def set_text(self,text):
+        if(text == ""):
+            text = "Enter Zoom path here"
         self.pathBox.delete(0,tk.END)
         self.pathBox.insert(0,text)
 
