@@ -12,7 +12,7 @@ class View(tk.Tk):
     def __init__(self,controller):
         super().__init__()
         self.controller = controller
-        self.title("Zoom Attender")
+        self.title("ZoomBot")
         self._make_main_frame()
 
         #zoom path
