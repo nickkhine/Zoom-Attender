@@ -30,6 +30,6 @@ Note:
   - Make sure to adjust sleep settings so that zoom can launch at start time.
   - pyautogui controls mouse and keyboard, so using it while program is joining zoom session at start time will cause issues.
   - pyautogui needs zoom application buttons to be in foreground so that it can identify and click it, 
-       if zoom application is closed then it will be in the foreground when automatically launched at start time.
+       if zoom application is closed then it will be in the foreground when launched automatically at start time.
  
 
