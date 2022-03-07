@@ -63,6 +63,7 @@ class Model():
         except FileNotFoundError:
                 f = open("pathfile.txt", "w")
                 f.close
+                return ""
 
    
     def set_zoomPath(self,zoomPath):
